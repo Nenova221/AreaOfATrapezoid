@@ -1,0 +1,14 @@
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\bin\Debug\net8.0\AreaOfATrapezoid.exe
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\bin\Debug\net8.0\AreaOfATrapezoid.deps.json
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\bin\Debug\net8.0\AreaOfATrapezoid.runtimeconfig.json
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\bin\Debug\net8.0\AreaOfATrapezoid.dll
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\bin\Debug\net8.0\AreaOfATrapezoid.pdb
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.AssemblyInfoInputs.cache
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.AssemblyInfo.cs
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.csproj.CoreCompileInputs.cache
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.dll
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\refint\AreaOfATrapezoid.dll
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.pdb
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\AreaOfATrapezoid.genruntimeconfig.cache
+C:\Users\KalinA\source\repos\AreaOfATrapezoid\AreaOfATrapezoid\obj\Debug\net8.0\ref\AreaOfATrapezoid.dll
